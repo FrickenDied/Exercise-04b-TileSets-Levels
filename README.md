@@ -1,6 +1,7 @@
 # Exercise-04b-TileSets-Levels
 
 ## Implementation
+Added a tile map and added some levels
 
 ## References
 
@@ -9,6 +10,7 @@ https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 https://github.com/SebLague/2DPlatformer-Tutorial
 
 ## Future Development
+Will add enemies
 
 ## Created by
-Nathan Mishler
+Samuel Styer
